@@ -49,7 +49,7 @@ object XiaoLiuRenUtils {
             cal.get(Calendar.MONTH) + 1,
             cal.get(Calendar.DAY_OF_MONTH)
         ).getLunarDay()
-        
+
         return CalculationParams(lunarDay.month, lunarDay.day, branchIndex, false)
     }
 
