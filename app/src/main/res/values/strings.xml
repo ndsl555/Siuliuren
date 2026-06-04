@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">小六壬快占</string>
+    <string name="current_time">當下時間</string>
+    <string name="random_numbers">隨機三數</string>
+    <string name="calculate_title">起卦 (%1$s)</string>
+    <string name="back">返回</string>
+    <string name="input_question_hint">請輸入問事內容...</string>
+    <string name="input_question_placeholder">例如：今日運勢、求財...</string>
+    <string name="result_format">結果：%1$s</string>
+    <string name="random_process_format">隨機三數為：%1$d, %2$d, %3$d\n</string>
+    <string name="lunar_process_format">農曆：%1$d月%2$d日 %3$s時\n</string>
+    <string name="calculation_process_format">推算：月上起日於 [%1$s]，日上起時於 [%2$s]，終得 [%3$s]</string>
+    <string name="calculating">正在推算中...</string>
+    <string name="start_calculating">開始起卦</string>
+    <string name="recalculate">重新起卦</string>
+    <string name="unclassified_question">未分類問題</string>
+    <string name="save_record">儲存此筆紀錄</string>
+    <string name="main_title">占卜日誌</string>
+    <string name="add_record">起卦</string>
+    <string name="records_on_date">📅 %1$s 的紀錄</string>
+    <string name="no_records">無占卜紀錄</string>
+    <string name="question_format">問：%1$s</string>
+    <string name="delete">刪除</string>
+</resources>
